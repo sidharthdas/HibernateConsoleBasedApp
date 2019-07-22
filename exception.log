@@ -1,0 +1,3 @@
+ERROR main com.mindtree.Main - java.util.InputMismatchExceptionInput Should Be An Integer
+ERROR main com.mindtree.Main - java.util.InputMismatchExceptionInput Should Be An Integer
+ERROR main com.mindtree.Main - java.util.InputMismatchException: Input Should Be An Integer
